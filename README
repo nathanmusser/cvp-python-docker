@@ -1,0 +1,1 @@
+docker run --network=host --privileged -ti --rm -v /tmp/:/app py3-cvp bash
