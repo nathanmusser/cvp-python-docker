@@ -1,1 +1,2 @@
+docker load -i py3-cvp.docker
 docker run --network=host --privileged -ti --rm -v /tmp/:/app py3-cvp bash
